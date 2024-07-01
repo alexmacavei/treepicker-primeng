@@ -1,0 +1,286 @@
+{
+  "libraries": [
+    {
+      "name": "Main Library",
+      "section": "Central",
+      "level": 1,
+      "library_name": "City Public Library",
+      "children": [
+        {
+          "name": "Fiction Section",
+          "section": "A",
+          "level": 2,
+          "children": [
+            {
+              "name": "Classic Literature",
+              "section": "A1",
+              "level": 3,
+              "children": [
+                {
+                  "name": "19th Century",
+                  "section": "A1.1",
+                  "level": 4,
+                  "children": [
+                    {
+                      "name": "Shelf 1",
+                      "section": "A1.1.1",
+                      "level": 5,
+                      "children": []
+                    },
+                    {
+                      "name": "Shelf 2",
+                      "section": "A1.1.2",
+                      "level": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "20th Century",
+                  "section": "A1.2",
+                  "level": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Modern Literature",
+              "section": "A2",
+              "level": 3,
+              "children": [
+                {
+                  "name": "21st Century",
+                  "section": "A2.1",
+                  "level": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Children's Section",
+          "section": "C",
+          "level": 2,
+          "children": [
+            {
+              "name": "Picture Books",
+              "section": "C1",
+              "level": 3,
+              "children": [
+                {
+                  "name": "Animals",
+                  "section": "C1.1",
+                  "level": 4,
+                  "children": []
+                },
+                {
+                  "name": "Fairy Tales",
+                  "section": "C1.2",
+                  "level": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Young Adult",
+              "section": "C2",
+              "level": 3,
+              "children": [
+                {
+                  "name": "Fantasy",
+                  "section": "C2.1",
+                  "level": 4,
+                  "children": []
+                },
+                {
+                  "name": "Science Fiction",
+                  "section": "C2.2",
+                  "level": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Non-Fiction Library",
+      "section": "West Wing",
+      "level": 1,
+      "library_name": "City Public Library",
+      "children": [
+        {
+          "name": "Non-Fiction Section",
+          "section": "B",
+          "level": 2,
+          "children": [
+            {
+              "name": "History",
+              "section": "B1",
+              "level": 3,
+              "children": [
+                {
+                  "name": "Ancient History",
+                  "section": "B1.1",
+                  "level": 4,
+                  "children": []
+                },
+                {
+                  "name": "Modern History",
+                  "section": "B1.2",
+                  "level": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Science",
+              "section": "B2",
+              "level": 3,
+              "children": [
+                {
+                  "name": "Physics",
+                  "section": "B2.1",
+                  "level": 4,
+                  "children": [
+                    {
+                      "name": "Quantum Mechanics",
+                      "section": "B2.1.1",
+                      "level": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Biology",
+                  "section": "B2.2",
+                  "level": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theology Library",
+      "section": "East Wing",
+      "level": 1,
+      "library_name": "City Public Library",
+      "children": [
+        {
+          "name": "Theology Section",
+          "section": "D",
+          "level": 2,
+          "children": [
+            {
+              "name": "Christianity",
+              "section": "D1",
+              "level": 3,
+              "children": [
+                {
+                  "name": "Orthodox Christianity",
+                  "section": "D1.1",
+                  "level": 4,
+                  "children": [
+                    {
+                      "name": "Church Fathers",
+                      "section": "D1.1.1",
+                      "level": 5,
+                      "children": []
+                    },
+                    {
+                      "name": "Modern Orthodox Theology",
+                      "section": "D1.1.2",
+                      "level": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Catholicism",
+                  "section": "D1.2",
+                  "level": 4,
+                  "children": [
+                    {
+                      "name": "Church Fathers",
+                      "section": "D1.2.1",
+                      "level": 5,
+                      "children": []
+                    },
+                    {
+                      "name": "Modern Catholic Theology",
+                      "section": "D1.2.2",
+                      "level": 5,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Protestantism",
+                  "section": "D1.3",
+                  "level": 4,
+                  "children": [
+                    {
+                      "name": "Reformation",
+                      "section": "D1.3.1",
+                      "level": 5,
+                      "children": []
+                    },
+                    {
+                      "name": "Modern Protestant Theology",
+                      "section": "D1.3.2",
+                      "level": 5,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Islam",
+              "section": "D2",
+              "level": 3,
+              "children": [
+                {
+                  "name": "Quran Studies",
+                  "section": "D2.1",
+                  "level": 4,
+                  "children": []
+                },
+                {
+                  "name": "Hadith Studies",
+                  "section": "D2.2",
+                  "level": 4,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Judaism",
+              "section": "D3",
+              "level": 3,
+              "children": [
+                {
+                  "name": "Torah Studies",
+                  "section": "D3.1",
+                  "level": 4,
+                  "children": []
+                },
+                {
+                  "name": "Talmud Studies",
+                  "section": "D3.2",
+                  "level": 4,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
